@@ -1,0 +1,16 @@
+[
+  {
+    "filename" : "PICT0000.jpg",
+    "hash" : "50d231b243a468abddc8aebc98f6692c5d06d28903412b9fa67d676682b6c52d",
+    "timestamp" : "2026-04-04T15:06:58Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
+  },
+  {
+    "filename" : "PICT0001.jpg",
+    "hash" : "22b38c3f6011ceeefa2cb532c70b3dd099a70737faa56ed9ba4ce9ade46a45d9",
+    "timestamp" : "2026-04-04T15:07:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0001.jpg"
+  }
+]
