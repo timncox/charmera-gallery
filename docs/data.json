@@ -240,35 +240,5 @@
     "timestamp": "2026-04-04T15:07:00Z",
     "type": "photo",
     "url": "media/PICT0001.jpg"
-  },
-  {
-    "type": "photo",
-    "filename": "PICT0007.jpg",
-    "url": "media/PICT0007.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
-  },
-  {
-    "type": "photo",
-    "filename": "PICT0014.jpg",
-    "url": "media/PICT0014.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
-  },
-  {
-    "type": "photo",
-    "filename": "PICT0017.jpg",
-    "url": "media/PICT0017.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
-  },
-  {
-    "type": "photo",
-    "filename": "PICT0018.jpg",
-    "url": "media/PICT0018.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
-  },
-  {
-    "type": "photo",
-    "filename": "PICT0020.jpg",
-    "url": "media/PICT0020.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
   }
 ]
