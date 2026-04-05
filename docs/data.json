@@ -1,230 +1,244 @@
 [
   {
-    "type": "video",
-    "filename": "MOVI0004.mp4",
-    "url": "media/MOVI0004.mp4",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "MOVI0004.mp4",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "video",
+    "url" : "media\/MOVI0004.mp4"
   },
   {
-    "type": "video",
-    "filename": "MOVI0020.mp4",
-    "url": "media/MOVI0020.mp4",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "MOVI0020.mp4",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "video",
+    "url" : "media\/MOVI0020.mp4"
   },
   {
-    "type": "photo",
-    "filename": "PICT0000.jpg",
-    "url": "media/PICT0000.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0000.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0002.jpg",
-    "url": "media/PICT0002.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0002.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0002.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0003.jpg",
-    "url": "media/PICT0003.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0003.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0003.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0004.jpg",
-    "url": "media/PICT0004.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0004.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0004.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0005.jpg",
-    "url": "media/PICT0005.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0005.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0005.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0006.jpg",
-    "url": "media/PICT0006.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0006.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0006.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0008.jpg",
-    "url": "media/PICT0008.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0008.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0008.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0009.jpg",
-    "url": "media/PICT0009.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0009.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0009.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0010.jpg",
-    "url": "media/PICT0010.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0010.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0010.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0011.jpg",
-    "url": "media/PICT0011.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0011.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0011.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0012.jpg",
-    "url": "media/PICT0012.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0012.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0012.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0013.jpg",
-    "url": "media/PICT0013.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0013.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0013.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0015.jpg",
-    "url": "media/PICT0015.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0015.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0015.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0016.jpg",
-    "url": "media/PICT0016.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0016.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0016.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0019.jpg",
-    "url": "media/PICT0019.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0019.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0019.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0021.jpg",
-    "url": "media/PICT0021.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0021.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0021.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0022.jpg",
-    "url": "media/PICT0022.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0022.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0022.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0023.jpg",
-    "url": "media/PICT0023.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0023.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0023.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0024.jpg",
-    "url": "media/PICT0024.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0024.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0024.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0025.jpg",
-    "url": "media/PICT0025.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0025.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0025.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0026.jpg",
-    "url": "media/PICT0026.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0026.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0026.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0027.jpg",
-    "url": "media/PICT0027.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0027.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0027.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0028.jpg",
-    "url": "media/PICT0028.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0028.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0028.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0029.jpg",
-    "url": "media/PICT0029.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0029.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0029.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0030.jpg",
-    "url": "media/PICT0030.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0030.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0030.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0032.jpg",
-    "url": "media/PICT0032.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0032.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0032.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0033.jpg",
-    "url": "media/PICT0033.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0033.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0033.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0034.jpg",
-    "url": "media/PICT0034.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0034.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0034.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0035.jpg",
-    "url": "media/PICT0035.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0035.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0035.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0036.jpg",
-    "url": "media/PICT0036.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0036.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0036.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0037.jpg",
-    "url": "media/PICT0037.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0037.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0037.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0038.jpg",
-    "url": "media/PICT0038.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0038.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0038.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0039.jpg",
-    "url": "media/PICT0039.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0039.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0039.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0040.jpg",
-    "url": "media/PICT0040.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0040.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0040.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0042.jpg",
-    "url": "media/PICT0042.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0042.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0042.jpg"
   },
   {
-    "type": "photo",
-    "filename": "PICT0046.jpg",
-    "url": "media/PICT0046.jpg",
-    "timestamp": "2026-04-04T00:00:00Z"
+    "filename" : "PICT0046.jpg",
+    "timestamp" : "2026-04-04T00:00:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0046.jpg"
+  },
+  {
+    "filename" : "PICT0000.jpg",
+    "hash" : "bd135d983cbe8a111a683c454b29260a7488adb76c66d9a74ebd0f559e35a575",
+    "timestamp" : "2026-04-04T15:06:58Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
+  },
+  {
+    "filename" : "PICT0001.jpg",
+    "hash" : "ec1aeb0a8010286777f6595333c741e356d52f345d9d58b9e44f0ec713e45a95",
+    "timestamp" : "2026-04-04T15:07:00Z",
+    "type" : "photo",
+    "url" : "media\/PICT0001.jpg"
   }
 ]
