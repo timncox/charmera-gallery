@@ -197,5 +197,19 @@
     "timestamp" : "2026-04-04T15:07:04Z",
     "type" : "photo",
     "url" : "media\/PICT0002.jpg"
+  },
+  {
+    "filename" : "PICT0000.jpg",
+    "hash" : "73cde14adbd95d2e75549a2ac9ee5c545a77f9af3a7986dd60d0db4a5e86b7da",
+    "timestamp" : "2026-04-05T01:54:01Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
+  },
+  {
+    "filename" : "PICT0001.jpg",
+    "hash" : "ff64ec873ee48af754098c5c6576d618966e3af0aaca6fdc946de56150a10ef4",
+    "timestamp" : "2026-04-05T01:54:01Z",
+    "type" : "photo",
+    "url" : "media\/PICT0001.jpg"
   }
 ]
