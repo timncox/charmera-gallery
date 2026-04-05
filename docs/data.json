@@ -1,11 +1,5 @@
 [
   {
-    "filename" : "PICT0001.jpg",
-    "timestamp" : "2026-04-05T01:54:01.659270+00:00",
-    "type" : "photo",
-    "url" : "media\/PICT0001.jpg"
-  },
-  {
     "filename" : "PICT0015.jpg",
     "timestamp" : "2026-04-04T22:55:58.467462+00:00",
     "type" : "photo",
@@ -16,12 +10,6 @@
     "timestamp" : "2026-04-04T22:55:57.652544+00:00",
     "type" : "photo",
     "url" : "media\/PICT0012.jpg"
-  },
-  {
-    "filename" : "PICT0010.jpg",
-    "timestamp" : "2026-04-04T22:55:56.750478+00:00",
-    "type" : "photo",
-    "url" : "media\/PICT0010.jpg"
   },
   {
     "filename" : "PICT0039.jpg",
@@ -204,12 +192,6 @@
     "url" : "media\/MOVI0004.mp4"
   },
   {
-    "filename" : "PICT0003.jpg",
-    "timestamp" : "2026-04-04T15:53:30.310338+00:00",
-    "type" : "photo",
-    "url" : "media\/PICT0003.jpg"
-  },
-  {
     "filename" : "PICT0002.jpg",
     "timestamp" : "2026-04-04T15:08:03.404047+00:00",
     "type" : "photo",
@@ -233,20 +215,6 @@
     "timestamp" : "2026-04-04T18:57:48Z",
     "type" : "photo",
     "url" : "media\/PICT0007.jpg"
-  },
-  {
-    "filename" : "PICT0000_1775355826.jpg",
-    "hash" : "PICT0000_1775355826.jpg",
-    "timestamp" : "2026-04-05T02:11:16Z",
-    "type" : "photo",
-    "url" : "media\/PICT0000_1775355826.jpg"
-  },
-  {
-    "filename" : "PICT0001_1775355826.jpg",
-    "hash" : "PICT0001_1775355826.jpg",
-    "timestamp" : "2026-04-05T02:11:18Z",
-    "type" : "photo",
-    "url" : "media\/PICT0001_1775355826.jpg"
   },
   {
     "filename" : "PICT0002_1775355826.jpg",
