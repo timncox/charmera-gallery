@@ -12,12 +12,6 @@
     "url" : "media\/MOVI0020.mp4"
   },
   {
-    "filename" : "PICT0000.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0000.jpg"
-  },
-  {
     "filename" : "PICT0002.jpg",
     "timestamp" : "2026-04-04T00:00:00Z",
     "type" : "photo",
@@ -66,28 +60,10 @@
     "url" : "media\/PICT0010.jpg"
   },
   {
-    "filename" : "PICT0011.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0011.jpg"
-  },
-  {
-    "filename" : "PICT0012.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0012.jpg"
-  },
-  {
     "filename" : "PICT0013.jpg",
     "timestamp" : "2026-04-04T00:00:00Z",
     "type" : "photo",
     "url" : "media\/PICT0013.jpg"
-  },
-  {
-    "filename" : "PICT0015.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0015.jpg"
   },
   {
     "filename" : "PICT0016.jpg",
@@ -106,18 +82,6 @@
     "timestamp" : "2026-04-04T00:00:00Z",
     "type" : "photo",
     "url" : "media\/PICT0021.jpg"
-  },
-  {
-    "filename" : "PICT0022.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0022.jpg"
-  },
-  {
-    "filename" : "PICT0023.jpg",
-    "timestamp" : "2026-04-04T00:00:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0023.jpg"
   },
   {
     "filename" : "PICT0024.jpg",
@@ -226,34 +190,6 @@
     "timestamp" : "2026-04-04T00:00:00Z",
     "type" : "photo",
     "url" : "media\/PICT0046.jpg"
-  },
-  {
-    "filename" : "PICT0000.jpg",
-    "hash" : "bd135d983cbe8a111a683c454b29260a7488adb76c66d9a74ebd0f559e35a575",
-    "timestamp" : "2026-04-04T15:06:58Z",
-    "type" : "photo",
-    "url" : "media\/PICT0000.jpg"
-  },
-  {
-    "filename" : "PICT0001.jpg",
-    "hash" : "ec1aeb0a8010286777f6595333c741e356d52f345d9d58b9e44f0ec713e45a95",
-    "timestamp" : "2026-04-04T15:07:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0001.jpg"
-  },
-  {
-    "filename" : "PICT0000.jpg",
-    "hash" : "1cd83ca1b685a3fe9ce0133cf26192b6cc358cd92165d0f2b55f46c71dacfa30",
-    "timestamp" : "2026-04-04T15:06:58Z",
-    "type" : "photo",
-    "url" : "media\/PICT0000.jpg"
-  },
-  {
-    "filename" : "PICT0001.jpg",
-    "hash" : "5a214c20e0edbefb2aad8fae69457e966b0e86e9b293f1ff7ed5e2cc7d53fd76",
-    "timestamp" : "2026-04-04T15:07:00Z",
-    "type" : "photo",
-    "url" : "media\/PICT0001.jpg"
   },
   {
     "filename" : "PICT0002.jpg",
