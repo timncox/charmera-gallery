@@ -322,13 +322,6 @@
     "url" : "media\/PICT0442.jpg"
   },
   {
-    "filename" : "PICT0443.jpg",
-    "hash" : "PICT0443.jpg:185098",
-    "timestamp" : "2026-04-11T10:11:20Z",
-    "type" : "photo",
-    "url" : "media\/PICT0443.jpg"
-  },
-  {
     "filename" : "PICT0444.jpg",
     "hash" : "PICT0444.jpg:137619",
     "timestamp" : "2026-04-11T10:15:44Z",
@@ -341,13 +334,6 @@
     "timestamp" : "2026-04-11T10:16:04Z",
     "type" : "photo",
     "url" : "media\/PICT0445.jpg"
-  },
-  {
-    "filename" : "PICT0446.jpg",
-    "hash" : "PICT0446.jpg:129922",
-    "timestamp" : "2026-04-11T10:16:52Z",
-    "type" : "photo",
-    "url" : "media\/PICT0446.jpg"
   },
   {
     "filename" : "PICT0447.jpg",
@@ -728,13 +714,6 @@
     "url" : "media\/PICT0500.jpg"
   },
   {
-    "filename" : "PICT0501.jpg",
-    "hash" : "PICT0501.jpg:193534",
-    "timestamp" : "2026-04-12T08:15:16Z",
-    "type" : "photo",
-    "url" : "media\/PICT0501.jpg"
-  },
-  {
     "filename" : "PICT0502.jpg",
     "hash" : "PICT0502.jpg:103299",
     "timestamp" : "2026-04-12T08:15:24Z",
@@ -852,13 +831,6 @@
     "timestamp" : "2026-04-12T12:36:14Z",
     "type" : "photo",
     "url" : "media\/PICT0518.jpg"
-  },
-  {
-    "filename" : "PICT0519.jpg",
-    "hash" : "PICT0519.jpg:65847",
-    "timestamp" : "2026-04-12T12:36:36Z",
-    "type" : "photo",
-    "url" : "media\/PICT0519.jpg"
   },
   {
     "filename" : "PICT0520.jpg",
@@ -2170,25 +2142,11 @@
     "url" : "media\/PICT0194.jpg"
   },
   {
-    "filename" : "PICT0195.jpg",
-    "hash" : "PICT0195.jpg:94124",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0195.jpg"
-  },
-  {
     "filename" : "PICT0196.jpg",
     "hash" : "PICT0196.jpg:103125",
     "timestamp" : "2026-04-24T01:46:40Z",
     "type" : "photo",
     "url" : "media\/PICT0196.jpg"
-  },
-  {
-    "filename" : "PICT0197.jpg",
-    "hash" : "PICT0197.jpg:100380",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0197.jpg"
   },
   {
     "filename" : "PICT0198.jpg",
@@ -2476,13 +2434,6 @@
     "timestamp" : "2026-04-24T01:46:40Z",
     "type" : "photo",
     "url" : "media\/PICT0240.jpg"
-  },
-  {
-    "filename" : "PICT0241.jpg",
-    "hash" : "PICT0241.jpg:32365",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0241.jpg"
   },
   {
     "filename" : "PICT0242.jpg",
@@ -3150,34 +3101,6 @@
     "url" : "media\/PICT0337.jpg"
   },
   {
-    "filename" : "PICT0338.jpg",
-    "hash" : "PICT0338.jpg:25953",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0338.jpg"
-  },
-  {
-    "filename" : "PICT0339.jpg",
-    "hash" : "PICT0339.jpg:25963",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0339.jpg"
-  },
-  {
-    "filename" : "PICT0340.jpg",
-    "hash" : "PICT0340.jpg:25987",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0340.jpg"
-  },
-  {
-    "filename" : "PICT0341.jpg",
-    "hash" : "PICT0341.jpg:25921",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0341.jpg"
-  },
-  {
     "filename" : "PICT0342.jpg",
     "hash" : "PICT0342.jpg:101705",
     "timestamp" : "2026-04-24T01:46:40Z",
@@ -3729,13 +3652,6 @@
     "timestamp" : "2026-04-24T01:46:40Z",
     "type" : "photo",
     "url" : "media\/PICT0422.jpg"
-  },
-  {
-    "filename" : "PICT0423.jpg",
-    "hash" : "PICT0423.jpg:0",
-    "timestamp" : "2026-04-24T01:46:40Z",
-    "type" : "photo",
-    "url" : "media\/PICT0423.jpg"
   },
   {
     "filename" : "PICT0000_2026-04-24.jpg",
